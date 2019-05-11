@@ -1,2 +1,0 @@
-# OctoCat
-Created with CodeSandbox
